@@ -1,12 +1,36 @@
 # mis-skills
 
-Skills para Claude Code, en `.claude/skills/`:
+Skills para Claude Code, en `.claude/skills/`.
 
+## Generales
+
+- deep-skill-finder
 - executing-marketing-campaigns
 - marketing-strategy-pmm
 - pdf-processing
 - senior-data-scientist
 - skill-creator
-- deep-skill-finder
 
 Fuente: https://github.com/davila7/claude-code-templates
+
+## Diseño y animación de UI
+
+- animate
+- animate-expo
+- animation-performance
+- animation-vocabulary
+- apple-design
+- ask-sonner
+- break-ui
+- choreograph
+- emil-design-eng
+- find-animation-opportunities
+- improve-animations
+- mobile-native
+- pick-ui-library
+- prototype
+- remove-animations
+- review-animations
+- write-swift
+
+Fuente: https://github.com/emilkowalski/skills (licencia MIT, ver `docs/emilkowalski/LICENSE`). Cheatsheets en `docs/emilkowalski/`.
