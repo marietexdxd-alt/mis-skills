@@ -40,3 +40,6 @@ Fuente: https://github.com/emilkowalski/skills (licencia MIT, ver `docs/emilkowa
 - impeccable
 
 Fuente: https://github.com/pbakaus/impeccable (licencia Apache 2.0, ver `docs/impeccable/`).
+- taste-skill (`design-taste-frontend`)
+
+Fuente: https://github.com/Leonxlnx/taste-skill (licencia MIT, ver `docs/taste-skill/LICENSE`). Requiere Node 22+ y Chrome/Chromium para sus scripts.
