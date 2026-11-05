@@ -34,3 +34,9 @@ Fuente: https://github.com/davila7/claude-code-templates
 - write-swift
 
 Fuente: https://github.com/emilkowalski/skills (licencia MIT, ver `docs/emilkowalski/LICENSE`). Cheatsheets en `docs/emilkowalski/`.
+
+## Diseño de frontend
+
+- impeccable
+
+Fuente: https://github.com/pbakaus/impeccable (licencia Apache 2.0, ver `docs/impeccable/`).
